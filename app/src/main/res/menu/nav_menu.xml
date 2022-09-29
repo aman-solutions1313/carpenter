@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:textColor="#043927"
+            android:title="Home"
+            android:iconTint="@color/colorPrimary"/>
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/user_ic"
+            android:textColor="#043927"
+            android:title="Profile"
+            android:iconTint="@color/colorPrimary"/>
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/history_ic"
+            android:title="History"
+            android:iconTint="@color/colorPrimary"/>
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/help_ic"
+            android:title="Help"
+            android:iconTint="@color/colorPrimary"/>
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout_ic"
+            android:title="Log Out"
+            android:iconTint="@color/colorPrimary"/>
+    </group>
+
+</menu>

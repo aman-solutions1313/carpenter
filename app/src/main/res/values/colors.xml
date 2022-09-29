@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="red">#C61E1E</color>
+    <color name="light_black">#F31E1C1C</color>
+    <color name="LightBlack">#302E2E</color>
+    <color name="gray">#EDEDED</color>
+    <color name="lightGray">#F0F4F3F3</color>
+    <color name="lightGray1">#F0E1E1E1</color>
+    <color name="color_pink">#FFE0E6</color>
+    <color name="color_pink_light">#FFEFF2</color>
+    <color name="yellow">#FFC107</color>
+    <color name="green">#31BA00</color>
+    <color name="transparent">#00000000</color>
+    <color name="gradientStart">#670000</color>
+    <color name="gradientEnd">#651C1C</color>
+    <color name="colorPrimaryLight">#7F00C8F0</color>
+    <color name="theme_color_secondary">#B43E3E</color>
+    <color name="text_color_black">#FC393737</color>
+    <color name="grey">#8DF5F2F6</color>
+    <color name="profile_in_color">#E6E8F8</color>
+    <color name="nav_bg_color">#3749B5</color>
+    <color name="light_voilet">#8f8af5</color>
+    <color name="colorPrimaryVariant">#008BBF</color>
+    <color name="colorOnPrimary">#FFFFFFFF</color>
+    <color name="colorSecondary">#FF03DAC5</color>
+    <color name="colorSecondaryVariant">#FF018786</color>
+    <color name="colorOnSecondary">#FF000000</color>
+    <color name="Indicator_tabTextColor">#2e332d</color>
+    <color name="Indicator_tabSelectedTextColor">#5e9188</color>
+    <color name="tabindiacator_background">#eef3ed</color>
+    <color name="tabIndicator_color">#5e9188</color>
+    <color name="unselected_txt">#5c5e5b</color>
+    <color name="seleted_txt">#43c2af</color>
+    <color name="bottom_tab_backround">#eef3ed</color>
+    <color name="background">#fff7f9f9</color>
+    <color name="random">#B5FE87</color>
+
+    <color name="blue">#C50C0C</color>
+    <color name="theme_color">#F3330000</color>
+    <color name="colorPrimary">#330000</color>
+
+</resources>
